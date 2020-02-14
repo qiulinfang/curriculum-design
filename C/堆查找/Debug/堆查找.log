@@ -1,3 +1,0 @@
-﻿  堆排序.cpp
-F:\professional\C\堆查找\堆排序.cpp(38,16): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-  堆查找.vcxproj -> F:\professional\C\堆查找\Debug\堆排序.exe

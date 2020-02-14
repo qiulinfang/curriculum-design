@@ -1,6 +1,0 @@
-﻿  KNP.cpp
-F:\professional\C\KNP\KNP.cpp(7,13): warning C4018: “<”: 有符号/无符号不匹配
-F:\professional\C\KNP\KNP.cpp(22,14): warning C4018: “<=”: 有符号/无符号不匹配
-F:\professional\C\KNP\KNP.cpp(22,30): warning C4018: “<=”: 有符号/无符号不匹配
-F:\professional\C\KNP\KNP.cpp(31,10): warning C4018: “>”: 有符号/无符号不匹配
-  2.vcxproj -> F:\professional\C\KNP\Debug\2.exe

@@ -1,4 +1,0 @@
-﻿  学生成绩管理系统.cpp
-F:\professional\C\寒假任务——管理系统\学生成绩管理系统.cpp(26,2): warning C4091: “typedef ”: 没有声明变量时忽略“student”的左侧
-F:\professional\C\寒假任务——管理系统\学生成绩管理系统.cpp(224,21): warning C4018: “>”: 有符号/无符号不匹配
-  寒假任务——管理系统.vcxproj -> F:\professional\C\寒假任务——管理系统\Debug\寒假任务——管理系统.exe
